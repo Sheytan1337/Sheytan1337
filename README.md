@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sheytan1337/Sheytan1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sheytan1337/Sheytan ♡** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
