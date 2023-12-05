@@ -5,7 +5,7 @@
 <br /><br />
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/DAouwaQc9Bs?style=for-the-badge&logo=youtube&logoColor=white&labelColor=%23e27014&color=darkgreen)&nbsp;&nbsp;
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Finfinity-solutions.es%2F&up_message=Online&up_color=darkgreen&down_message=Offline&down_color=darkred&style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white&label=Infinity%20Solutions&labelColor=%23e27014)](https://infinity-solutions.es/)&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Sheytan1337?style=for-the-badge&logo=github&labelColor=%23e27014&color=darkgreen)](https://github.com/Sheytan1337?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Sheytan1337?style=for-the-badge&logo=github&labelColor=%23e27014&color=darkgreen)](https://github.com/Sheytan1337?tab=following)
 
 ---
 
