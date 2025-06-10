@@ -50,7 +50,7 @@ Ich arbeite aktuell an einem Webprojekt mit dem Ziel, eine **Community-Plattform
 ## 📫 Kontaktieren
 
 - 📧 E-Mail: `Wird bald veröffentlicht 🚧`  
-- 🗨️ Discord: `Sheytan1337#XXXX` *(oder direkt im Server oben)*
+- 🗨️ Discord: `sheytan187` *(oder direkt im Server oben)*
 
 ---
 
