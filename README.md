@@ -43,14 +43,14 @@ Ich arbeite aktuell an einem Webprojekt mit dem Ziel, eine **Community-Plattform
 📌 **Status:** Aktuell in der Konzeptphase  
 📍 **Community & Austausch:** [Discord Server beitreten »](https://discord.gg/SV4Kk88wKc)
 
-[![Project: Sentinel Studios](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SV4Kk88wKc)
+[![Project: Sentinel Studios](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/SV4Kk88wKc](https://discord.gg/Pu6DaADneY))
 
 ---
 
 ## 📫 Kontaktieren
 
-- 📧 E-Mail: `kontakt@infinity-solutions.es`  
-- 🗨️ Discord: `Sheytan1337#XXXX` *(oder direkt im Server oben)*
+- 📧 E-Mail: `Wird bald veröffentlicht 🚧`
+- 🗨️ Discord: `sheytan187` *(oder direkt im Server oben)*
 
 ---
 
