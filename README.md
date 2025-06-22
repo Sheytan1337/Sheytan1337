@@ -7,7 +7,7 @@
 
 ## 🌐 Online & Vernetzt
 
-[![Discord](https://img.shields.io/discord/907742604953804811?style=flat-square&logo=discord&label=Discord)](https://discord.gg/Pu6DaADneY)
+[![Discord](https://img.shields.io/discord/1368874152550731797?style=flat-square&logo=discord&label=Discord)](https://discord.gg/Pu6DaADneY)
 [![YouTube](https://img.shields.io/badge/YouTube-Sheytan1337-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCt00SFqoLi7BjmejezmCZ6g)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Website&style=flat-square&up_color=darkgreen&up_message=Online&url=https%3A%2F%2Finfinity-solutions.es)](https://infinity-solutions.es)
 [![GitHub Followers](https://img.shields.io/github/followers/Sheytan1337?style=flat-square&logo=github)](https://github.com/Sheytan1337)
@@ -39,10 +39,7 @@ Ich arbeite aktuell an einem Webprojekt mit dem Ziel, eine **Community-Plattform
 - 📤 **eigene Arbeiten hochladen** und der Community bereitstellen können  
 - ♻️ Inhalte anderer Nutzer entdecken und wiederverwenden können  
 
-📌 **Status:** Aktuell in der Konzeptphase  
-📍 **Community & Austausch:** [Discord Server beitreten »](https://discord.gg/Pu6DaADneY)
-
-[![Project: Sentinel Studios](https://img.shields.io/badge/Sentinel_Studios-Discord_Community-orange?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pu6DaADneY)
+📌 **Aktueller Stand:** Konzeptphase und erste technische Umsetzung
 
 ---
 
