@@ -50,4 +50,4 @@ Ich arbeite aktuell an einem Webprojekt mit dem Ziel, eine **Community-Plattform
 
 ---
 
-> "Code ist Magie, wenn man weiß, wie man ihn spricht." – *Sheytan1337*
+> "Code ist Magie, wenn man weiß, wie man ihn spricht." – *Sheytan1337* 
